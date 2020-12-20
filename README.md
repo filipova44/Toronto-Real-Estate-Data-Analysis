@@ -12,6 +12,10 @@ Better undestand the current state of the real estate market in the middst of a 
  - `matplotlib == 2.2.3`
  - `seaborn == 0.9.0`
 ## Structure of Repository
+ - MLS.csv - Dataset on which the analysis is performed
+ - RealEstate_Analysis.ipynb - Jupyter Notebook with the main code for the data analysis
+ - README file ( where you're at now )
+ - gitignore for all Python files
 ## Better Undestanding of Findings
 In order to better grasp the main results, here is my Medium blog post where I communicated the findings to the tech as well as non tech audience: https://filipova-91822.medium.com/a-look-on-the-recent-torontos-housing-index-e62a22326a8d
 ## Acknowledgements
