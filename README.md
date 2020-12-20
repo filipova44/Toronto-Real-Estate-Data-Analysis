@@ -2,8 +2,9 @@
 A Udacity Project as Part of the Data Science Nanodegree
 ## Motivation
 Better undestand the current state of the real estate market in the middst of a pandemic. When is the right time to buy the dream home in Toronto? In order to answer that I tackled the following questions:
- - Is the year to year percentage trend raising or declining?
- - Which are the top 5 most expensive neighborhoods for apartment, townhouse, single family detached, and single family attached house?
+ - Distribution od the MLS index among compared to the various types of housing. Which is the best number to look for?
+ - Is the year to year change in percentage trend raising or declining? How to use that trend to make a tactical decision on when to buy your home.
+ - Where you should look for your dream home? Identifying the top 5 most expensive neighborhoods for apartment, townhouse, single family detached, and single family attached house.
 ## Libraries Requirements
  - Python 3.7.0
  - `numpy == 1.15.1`
